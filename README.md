@@ -1,3 +1,4 @@
 # test-merge-branches
-line in local
+line in local 
 new line in main
+new line in main 2
