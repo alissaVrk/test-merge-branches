@@ -8,3 +8,4 @@ new line in main
 new line in local
 my pretty new line
 new line in main
+new line in main
